@@ -1,0 +1,7 @@
+flask>=0.10.1
+Werkzeug>=0.7
+Jinja2>=2.4
+itsdangerous>=0.21
+markupsafe
+flask-script>=0.6.2
+sqlalchemy>=0.8.2
